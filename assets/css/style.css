@@ -1,0 +1,21 @@
+ body{
+ 	background: url("https://cdn1.thr.com/sites/default/files/2013/09/thomas_the_tank_engine.jpg");
+ 	background-attachment: fixed;
+ 
+ }
+
+ .jumbotron{
+	
+ 	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+ }
+
+ h2{
+ 	color: papayawhip
+ }
+
+ .panel-body {
+ 	background-color: transparent;
+  }
